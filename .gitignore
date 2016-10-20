@@ -3,3 +3,8 @@ bower_components/
 .tmp/
 gen/
 docs/
+.htaccess
+favicon.ico
+index.php
+robots.txt
+web.config
